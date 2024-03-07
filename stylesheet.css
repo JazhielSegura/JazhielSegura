@@ -22,6 +22,8 @@ p {
     background-color: #f0f0f0;
     padding: 20px;
     border-radius: 5px;
+    border-color: #ddd;
+    border-width: 2px;
 }
 
 /* ID styling */
@@ -31,4 +33,6 @@ p {
     padding: 20px;
     border: 1px solid #ccc;
     margin-top: 20px;
+    box-sizing: border-box;
+    
 }
