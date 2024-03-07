@@ -11,3 +11,8 @@ p {
     font-family: Arial, serif;
     line-height: 1.5;
 }
+
+.class-text {
+    font-style: italic;
+    color: green;
+}
