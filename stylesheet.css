@@ -16,3 +16,19 @@ p {
     font-style: italic;
     color: green;
 }
+
+/* ID styling */
+#education {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* ID styling */
+
+#publications {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
